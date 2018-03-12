@@ -1,3 +1,4 @@
 *.ts
 .idea/
 prueba-sin-git.txt
+*.iml
